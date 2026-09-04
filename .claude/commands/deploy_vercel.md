@@ -1,3 +1,7 @@
+---
+description: Build the treasure hunting game and deploy it to Vercel production, returning the live URL.
+---
+
 # Deploy to Vercel
 
 This command deploys the treasure hunting game to Vercel for public access.

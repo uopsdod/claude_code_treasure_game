@@ -1,0 +1,13 @@
+{
+  "name": "svuncle-plugins",
+  "description": "Shared Claude Code plugins for the uopsdod treasure-hunt-game team",
+  "owner": { "name": "uopsdod" },
+  "plugins": [
+    {
+      "name": "deploy-plugin",
+      "source": "./plugins/deploy-plugin",
+      "description": "Deployment commands for this project (GitHub Pages today, more targets like Vercel can be added as additional commands/*.md files)",
+      "version": "1.0.0"
+    }
+  ]
+}

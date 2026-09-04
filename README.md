@@ -78,3 +78,4 @@ revert back to previous git commit
 - create folder: .claude/commands
 - create file: deploy_github_page.md 
 - after creation, re-open a new claude code session
+# svuncle-plugins-001

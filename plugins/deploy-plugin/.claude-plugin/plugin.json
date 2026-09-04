@@ -1,0 +1,6 @@
+{
+  "name": "deploy-plugin",
+  "description": "Deployment commands for this project (GitHub Pages today, more targets like Vercel can be added as additional commands/*.md files)",
+  "version": "1.0.0",
+  "author": { "name": "uopsdod" }
+}
